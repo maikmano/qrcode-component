@@ -2,7 +2,7 @@
 
 Projeto de criação de um card responsivo para a leitura de QR code com titulo e descrição [esse é um desafio da frontendmentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). 
 
-- [Clique Aqui para visualizar]()
+- [Clique Aqui para visualizar](https://qrc-component.netlify.app/)
 
 ### 💡 O Desafio:
 
