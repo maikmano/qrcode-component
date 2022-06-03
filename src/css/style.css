@@ -26,8 +26,7 @@ body{
     padding: 1.5rem;
     border-radius: 14px;
     background-color: white;
-    box-shadow: 1px 15px 30px 3px hsl(220, 15%, 55%);
-}
+    box-shadow: rgba(46, 82, 240, 0.4) 0px 5px, rgba(46, 82, 170, 0.3) 0px 10px, rgba(46, 82, 170, 0.2) 0px 15px, rgba(46, 82, 170, 0.1) 0px 20px, rgba(46, 82, 170, 0.05) 0px 25px;}
 
 .qr-art-container{
     position: relative;
